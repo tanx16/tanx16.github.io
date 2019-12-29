@@ -3,6 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .ruby-version
+*.swp
+.DS_Store
 Gemfile
 Gemfile.lock
 vendor

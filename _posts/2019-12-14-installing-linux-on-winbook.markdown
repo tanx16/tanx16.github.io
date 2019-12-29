@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Setting up Pi-hole for the Winbook TW700 in 2019"
+title:  "Setting up Pi-hole for the Winbook TW700 in 2019, Part 1"
 date:   2019-12-14 14:52:57 -0800
-categories: jekyll update
+categories: hacks
 ---
 
 ### Introduction
+
+#### What's [Pi-hole][pihole-site]?
 
 I've had an [ancient tablet][winbook-info] from around 2015 lying around, and I had always wanted to do something with it. It's a basic 7-inch tablet that has 1GB of ram, 16GB of MMC storage, and a wimpy Intel Atom processor preloaded with Windows 8. As a bonus, it came with a full-size USB-A port that was the primary reason I picked it over the other cheap tablets at the time. At that point, I was only using it as a cheap way to load my keyboard configuration software. I had found a guide to load Ubuntu on it, but never got around to it until I had the idea to set up Pi-hole on it. I was also motivated by a friend's unused Google Home Mini, which conveniently came with a micro-usb charger that worked with the tablet.
 
@@ -41,8 +43,9 @@ When I tried moving the cursor with my finger, I realized that the mapping was t
 
 ### Next steps
 
-In the next post, I'll be describing how I set up Pi-hole and the issues that I ran into along the way. See you next time!
+In the [next post]({% post_url 2019-12-16-setting-up-pihole %}), I'll be describing how I set up Pi-hole and the issues that I ran into along the way. See you next time!
 
+[pihole-site]: https://pi-hole.net/
 [winbook-info]: https://www.thurrott.com/hardware/1484/first-look-winbook-tw700-tablet
 [infosoda-guide]: https://web.archive.org/web/20180710011952/http://infosoda.com/ubuntu-tw700-1/
 [balena-etcher]: https://www.balena.io/etcher/
