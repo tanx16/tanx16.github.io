@@ -1,0 +1,32 @@
+Package: com.asterix.swipeselection
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Asterix
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.asterix.swipeselection_1.6.0_iphoneos-arm.deb
+Size: 8596
+MD5sum: eb2bbe7ee28152b66fe7f96783a84b1b
+SHA1: 66ebe4b2e3d6cfc983e81a91018e5d5b8acba143
+SHA256: 8b5673f1f91186e0fe0421136c18703dbddebaca0498681e92f482676800cb3b
+Section: Tweaks
+Description: Swipe the keyboard moves the cursor
+Author: Kyle Howells
+Name: SwipeSelection (Forked & kinda fixed)
+
+Package: com.asterix.swipeselection
+Version: 1.6.0-no_delete_sound
+Architecture: iphoneos-arm
+Maintainer: Asterix
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.asterix.swipeselection_1.6.0-no_delete_sound_iphoneos-arm.deb
+Size: 8544
+MD5sum: 6a1ad32bca42318ae2ab7ed022acace2
+SHA1: f21be8ded39f1001d39bc51c5b51f1c209803e35
+SHA256: fb5067913de1d4c4f816e0425d177dae85c8bcbde875418e79954bf24e2186d5
+Section: Tweaks
+Description: Swipe the keyboard moves the cursor
+Author: Kyle Howells
+Name: SwipeSelection (Forked & kinda fixed)
+
