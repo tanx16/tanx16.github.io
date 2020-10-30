@@ -9,16 +9,23 @@ categories: food
 As a college student and new grad living in the Bay, I've spent far too much money on boba. I've always been meaning to write something about the boba cafes where I've been. When I meet up with friends, a question that often comes up is: "Where should we go for boba?" Boy, do I have an answer for that. But first, let me explain how I categorize this in my brain.
 
 ## Cafe Classification
-From my experience, every boba shop that you visit can be classified within these 4 categories.
+From my experience, every boba shop that you visit can be classified within these 4 categories.[^1]
 
 ### The old-school mom and pop shop
+
+<figure>
+  <img width="75%" height="75%" src="{{site.url}}/assets/2020/sweetheart.jpg" alt="Sweetheart Cafe, Berkeley"/>
+  <figcaption>It's a little run-down...</figcaption>
+</figure>
+
+
 Typical examples:
 - Sweetheart Cafe (Berkeley, Oakland)
 - Boba Ninja (Berkeley)
 - Golden Tea Shop (Oakland)
 - The Sweet Booth (Oakland)
 
-These guys are the shops that have been around forever, before you realized that boba was a cool thing. They're usually the small, dinky, hole-in-the-wall shack that has aged menu posters taped up. The drinks come in the bog-standard semi-squishy boba cup, with the sealing film on top.[^1] They also usually have a couple of fried snacks (popcorn chicken, anyone?) and maybe some asian convenience store snacks on the checkout counter.
+These guys are the shops that have been around forever, before you realized that boba was a cool thing. They're usually the small, dinky, hole-in-the-wall shack that has aged menu posters taped up. The drinks come in the bog-standard semi-squishy boba cup, with the sealing film on top.[^2] They also usually have a couple of fried snacks (popcorn chicken, anyone?) and maybe some asian convenience store snacks on the checkout counter. Usually there's no place to sit down, or maybe there's a dinky table or two.
 
 #### Value
 These generally are pretty good value. Some have specials going on, and they usually have their drinks range from $2.50-5.00. When I was living next to the Sweetheart Cafe in Berkeley, I frequently got their semester special (I remember the hot taro drink, $2.50, as one of my favorites). Don't set your expectations too high though.
@@ -27,11 +34,15 @@ These generally are pretty good value. Some have specials going on, and they usu
 Typical examples:
 - TeaOne
 - Sharetea
-- Yi Fang
 - Happy Lemon
 - T4
 
-These are the basic cafes that got started in Taiwan and opened a branch near you recently. They're slightly above average in terms of quality - you know exactly what you're getting when you order from them. Don't expect anything too fresh, but the flavors won't be entirely artificial either. These are like the Starbucks of boba shops.
+<figure>
+  <img width="75%" height="75%" src="{{site.url}}/assets/2020/sharetea.jpg" alt="Sharetea, Oakland"/>
+  <figcaption>They're really trying to go for that modern style.</figcaption>
+</figure>
+
+These are the basic cafes that have hundreds of similar shops and opened a branch near you recently. They're slightly above average in terms of quality - you know exactly what you're getting when you order from them. Don't expect anything too fresh, but the flavors won't be entirely artificial either. These are like the Starbucks of boba shops. Similarly, these are the favorites of college students to sit down and work/procrastinate in.
 
 #### Value
 Similar to Starbucks, these places are a bit on the expensive side. Expect to pay around $4-5. I think value-wise they're alright, especially if they have a drink that you really like (e.g. fresh milk with brown sugar).
@@ -42,7 +53,12 @@ Typical examples:
 - Boba Guys (SF)
 - Urban Ritual (SF)
 
-These places are the ones that cater to your social media needs. They usually brand themselves as places "Making tea with the freshest ingredients/hightest quality tea/healthiest alternatives!" Of course, the boba these places make do taste pretty good - you're just going to have to pay twice the price and wait twice as long to do so.
+<figure>
+  <img width="75%" height="75%" src="{{site.url}}/assets/2020/asha.jpg" alt="Asha, SF"/>
+  <figcaption>Ever wonder what your friend looked like when taking that pic on snap?</figcaption>
+</figure>
+
+These places are the ones that cater to your social media needs. They usually brand themselves as places "Making tea with the freshest ingredients/hightest quality tea/healthiest alternatives!" Of course, the boba these places make do taste pretty good - you're just going to have to pay twice the price and wait twice as long to do so. If you want to show off that you're a boba fanatic, they often sell tshirts, stickers, and water bottles.
 
 #### Value
 I think these are generally overpriced and overrated. There's almost always a place nearby (see Golden Tea Shop) that has similarly good tea, just not packaged in a nice solid plastic cup with pretty swirls in it (but you won't have to wait 30 minutes in line!). It's absolutely better if you're trying to show off how much of a good time you're having with friends.
@@ -53,13 +69,17 @@ Typical examples:
 - Shooting Star Cafe (Oakland)
 - That one Chinese restaurant that has boba on the menu that you've never tried
 
+<figure>
+  <img width="75%" height="75%" src="{{site.url}}/assets/2020/shihlin.jpg" alt="Shihlin, Berkeley"/>
+  <figcaption>Food? Good. Boba? Not good.</figcaption>
+</figure>
+
 As a rule of thumb, never get boba from a place that doesn't specialize in it. Sometimes, when I'm feeling extra adventurous, I order boba from a place that I've had decent food from. In the majority of cases, I immediately regret my decision. I still vividly recall the day that I got a free "fresh milk brown sugar boba" from Shihlin, and I watched them dump some flavorless, mushy boba into a cup and pour some plain skim milk over it.
 
 There are, however, places that sell bread (and other baked goods), and sell boba on the side. For whatever reason, these shops are fine. One of my favorite places to go as a student was the Sheng Kee bakery in Berkeley, where they had very reasonably priced boba that I could grab along with some fresh pastries. These places are generally on par with the old-school boba shops - don't expect too many fancy variations.
 
 #### Value
-Just don't. If it's included for free, then go for it.
-
+It's only worth it if it's free.
 
 
 ## Alright, what drink should I get?
@@ -70,18 +90,19 @@ My thought process for picking a drink is pretty vague. Here's a set of question
     * Yes: Consider getting a fruity cold drink or smoothie.
     * No: Get a hot milk tea, with crema if they have it.
 - Do you have a sweet tooth?
-    * Yes: Get something that's citrusy (or lychee/pineapple).[^2]
+    * Yes: Get something that's citrusy (or lychee/pineapple).[^3]
     - No: Consider getting something more aromatic (rose, jasmine)
 - Do you want something light or filling?
     * Light: Fruit tea or plain tea is good.
-    * Filling: Smoothies can pretty much act as a meal by themselves.[^3] There are also drinks that have ice cream in them. Alternatively, you could always just order a side of popcorn chicken...
+    * Filling: Smoothies can pretty much act as a meal by themselves.[^4] There are also drinks that have ice cream in them. Alternatively, you could always just order a side of popcorn chicken...
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 &nbsp;
 
-[^1]: I was struggling to find the right term for this, and I looked up "boba wrap" - which is apparently an alternative baby carrier method. TIL.
-[^2]: Once upon a time when I had a serious craving for sugar I got a 100% sweetness lychee drink with lychee jelly. I'm pretty sure that thing had at least a cup of sugar dumped into it... but it was pretty good.
-[^3]: I've definitely used large smoothies from The Sweet Booth as lunch/dinner before.
+&nbsp;
+
+[^1]: With caveats. See next post.
+[^2]: I was struggling to find the right term for this, and I looked up "boba wrap" - which is apparently an alternative baby carrier method. TIL.
+[^3]: Once upon a time when I had a serious craving for sugar I got a 100% sweetness lychee drink with lychee jelly. I'm pretty sure that thing had at least a cup of sugar dumped into it, but at the time it was pretty good.
+[^4]: I've definitely used large smoothies as lunch/dinner before. You got carbs from boba, fiber from fruit... it can't be that bad, right?
